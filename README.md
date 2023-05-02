@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning at Microverse 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on remote environment 
 - 📫 Reach me
 -  Via [Github] (https://github.com/demesameneshoa)
 -  or via [Email] demesameneshoa@gmail.com 
