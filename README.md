@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Demes A.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=@demesameneshoa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=demesameneshoa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning at Microverse 
