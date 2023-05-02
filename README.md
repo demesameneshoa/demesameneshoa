@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @demesameneshoa
+
+[![trophy](https://github-profile-trophy.vercel.app/?@demesameneshoa=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning at Microverse 
 - 💞️ I’m looking to collaborate on 
