@@ -8,7 +8,7 @@
 - 📫 Reach me
 -  Via [Github] (https://github.com/demesameneshoa)
 -  or via [Email] demesameneshoa@gmail.com 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/demesabera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lizansh_m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/demes-abera-b439b540/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lizansh-mathur-150203240" height="30" width="40" /></a>
