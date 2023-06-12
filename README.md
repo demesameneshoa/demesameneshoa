@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=demesameneshoa)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👀 I’m interested in Full Stack Web Development 
+- 👀 I’m interested in Full-Stack Web Development 
 - 🌱 I’m currently learning at Microverse 
 - 💞️ I’m looking to collaborate on remote environment 
 - 📫 Reach me
