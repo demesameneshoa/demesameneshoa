@@ -10,7 +10,7 @@
  - 🌱 I’m currently learning at Microverse
  
  - 👀 I’m interested in Full-Stack Web Development 
-https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png
+
  - 💞️ I’m looking to collaborate on remote environment in new opportunities
 </p>
 <h3 align="left">Github Activities</h3> 
