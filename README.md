@@ -3,9 +3,9 @@
  
  - 👋 Hi, I’m Demes
  
- - I have a degree in computer science & IT
+ - I have a degree in computer science
  
- - I have been working on System Admin and Tech Support for 10+ Years
+ - I have been working In the IT Industry for 10+ Years
  
  - 🌱 I’m currently learning at Microverse
  
