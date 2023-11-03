@@ -19,7 +19,7 @@
 <a href="https://github.com/demesameneshoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="githubicon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/demes-abera-b439b540/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinicon" height="30" width="40" /></a>
 <a href="mailto:demesameneshoa@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png" alt="emailicon" height="30" width="40" /></a>
-<a href="https://twitter.com/demesabera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twittericon" height="30" width="40" /></a> <a href="https://medium.com/@demesameneshoa" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="mediumicon" height="30" width="40" /></a>
+<a href="https://twitter.com/demesabera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twittericon" height="30" width="40" /></a> <a href="https://medium.com/@demesameneshoa" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="mediumicon" height="40" width="40" /></a>
  
 </p>
 <h3 align="left">Languages and Tools:</h3>
