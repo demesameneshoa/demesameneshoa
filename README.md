@@ -11,7 +11,7 @@
  
  - 👀 I’m interested in Full-Stack Web Development 
 
- - 💞️ I’m looking to collaborate in remote environment in new opportunities
+ - 💞️ I’m looking to collaborate in a remote environment in new opportunities
 </p>
 <h3 align="left">Github Activities</h3> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demesameneshoa" alt="Demes A." /></a> </p>
