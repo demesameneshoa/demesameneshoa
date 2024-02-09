@@ -2,12 +2,14 @@
 <p align="left">
  
  - 👋 Hi, I’m Demes
+
+- I am a certified full-stack developer
  
  - I have a degree in computer science
  
  - I have been working In the IT Industry for 10+ Years
  
- - 🌱 I’m currently learning at Microverse
+ - 🌱 I have studied at Microverse
  
  - 👀 I’m interested in Full-Stack Web Development 
 
