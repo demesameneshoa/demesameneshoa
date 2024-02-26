@@ -11,7 +11,7 @@
  
  - 🌱 I have studied at Microverse
  
- - 👀 I’m interested in Full-Stack Web Development 
+ - 👀 I’m involved in Full-Stack Web Development 
 
  - 💞️ I’m looking to collaborate in a remote environment in new opportunities
 </p>
