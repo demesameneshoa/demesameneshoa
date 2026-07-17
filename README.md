@@ -15,8 +15,6 @@
 
  - 💞️ I’m looking to collaborate in a remote environment in new opportunities
 </p>
-<h3 align="left">Github Activities</h3> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demesameneshoa" alt="Demes A." /></a> </p>
 <h3 align="left">📫Connect with me:</h3>
 <a href="https://github.com/demesameneshoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="githubicon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/demes-abera-b439b540/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinicon" height="30" width="40" /></a>
